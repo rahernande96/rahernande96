@@ -4,7 +4,6 @@
 
 [<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">][website]
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Workana as a Freelance
 - 🌱 I’m currently learning ReactJs, GoLang and NodeJs
