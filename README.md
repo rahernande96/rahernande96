@@ -1,82 +1,66 @@
-<h1 align="center">👋 Hi, I'm Robert Hernández</h1>
+<h1 align="center">👋 Hey, I'm Robert Hernández</h1>
 
 <p align="center">
-  Software Engineer · Product-Oriented Builder · Scalable Systems & Real Impact
+  Software Engineer — Product Mindset · Real-World Impact · Systems that Scale
 </p>
 
 ---
 
-### 🚀 Who I Am
+### 🚀 About Me
 
-I build software that solves actual problems.  
-Not just shipping features — ensuring that what goes live **moves the needle**.
+I build software that actually improves things — faster flows, fewer errors, better UX.
+If it doesn’t move a metric or remove pain, why ship it?
 
-- 🔍 Systems thinker: from architecture to DX to product outcomes
-- 🧩 Strong interest in event-driven patterns, DDD & clean architectures
-- 🧪 I believe in data-backed decisions, rapid iteration, and ownership end-to-end
-- 🎸 Outside work? I play loud guitars and experiment with audio tech
-
-I care about **impact**, not busywork.
+- Product-driven engineer with strong UI chops
+- Event-driven thinking, DDD vibes, clean architecture when it matters
+- Decisions guided by data → iterate → measure → iterate again
+- I play loud guitars and experiment with audio tech 🤘
 
 ---
 
-### 🧠 What I Work With
+### 🧠 My Craft
 
-I’m comfortable across the stack depending on where the business needs me:
+- TypeScript · JavaScript
+- React · Next.js · Node.js · GraphQL
+- Testing: Jest, Testing Library, Playwright
+- SQL/NoSQL, queues, event-based integrations
+- DevOps basics: Docker, GitHub Actions, CI/CD
 
-- TypeScript / JavaScript
-- React · Next.js (strong UI engineering background)
-- Node.js · GraphQL · REST · queues · microservices
-- Testing fundamentals (Jest · Testing Library · Playwright)
-- SQL/NoSQL when needed for performance & reliability
-- DevOps basics: Docker · GitHub Actions · CI/CD pipelines
-
-Focus: **codebases that scale and don’t collapse under growth**.
+I care about maintainable codebases that **survive hyper-growth**.
 
 ---
 
-### 📊 What I’m Optimizing For
+### 📈 Proven Results
 
-- Better product outcomes  
-- Faster delivery without sacrificing quality  
-- Measurable improvements (conversion, latency, SEO, accessibility, etc.)
-- Teams empowered with solid tech decisions
+- Reduced feature abandonment in onboarding by introducing smart UX improvements  
+  *(multi-file upload + previews → significant drop in drop-offs)*  
+- Shipped features used by tens of thousands of real users
+- Improved reliability and performance in production services
+- Champion of ownership and collaboration across Product + Design
 
-> “Good engineering isn’t about elegance — it’s about impact.”
-
----
-
-### 🛠️ Current Initiatives
-
-- Architecting features with long-term maintainability in mind
-- Creating AI-driven user experiences where they actually help
-- Building a solid track record to unlock **top-tier engineering roles** globally
+If I can’t measure the outcome, I don’t consider it done.
 
 ---
 
-### 🧱 Side Work & Exploration
+### 🧪 Current Focus
 
-- Internal tools and automations that remove repetitive work
-- Experiments in real-time interaction & intelligent systems
-- Personal homelab for learning distributed systems hands-on
-
----
-
-### 🏆 Wins That Matter
-
-- Delivered features adopted by tens of thousands of users
-- Improved performance and reliability in production systems
-- Reduced complexity via better architecture and ownership culture
-- Cross-functional collaboration: Product, Design, Ops, and beyond
-
-I track progress with **metrics and outcomes**, not assumptions.
+- Architecting features with a long-term view (scaling without chaos)
+- Practical AI experiences that boost usability, not gimmicks
+- Building a track record for global-tier engineering roles
 
 ---
 
-### 📫 Let’s Connect
+### 🧱 Side Projects & Learning
 
-- LinkedIn: [linkedin.com/in/rahernande96](#)
+- Internal tools that delete repetitive work
+- Real-time systems · Distributed patterns · Homelab experiments
 
 ---
 
-<h3 align="center">⚡ “Design for impact. Build for scale. Deliver consistently.” ⚡</h3>
+### 📫 Find Me
+
+- LinkedIn: [https://linkedin.com/in/rahernande96](#)
+
+---
+
+<h3 align="center">⚡ Impact first. Scale second. Excuses never. ⚡</h3>
