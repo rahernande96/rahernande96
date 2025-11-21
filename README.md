@@ -1,66 +1,30 @@
-<h1 align="center">👋 Hey, I'm Robert Hernández</h1>
+# Robert Hernández
 
-<p align="center">
-  Software Engineer — Product Mindset · Real-World Impact · Systems that Scale
-</p>
+Full-stack engineer. I build web applications with TypeScript and React.
 
----
+## What I do
 
-### 🚀 About Me
+I work across the stack — frontend interfaces, backend services, databases, deployment pipelines. I care about code that's maintainable and systems that don't break under load.
 
-I build software that actually improves things — faster flows, fewer errors, better UX.
-If it doesn’t move a metric or remove pain, why ship it?
+## Tech I use regularly
 
-- Product-driven engineer with strong UI chops
-- Event-driven thinking, DDD vibes, clean architecture when it matters
-- Decisions guided by data → iterate → measure → iterate again
-- I play loud guitars and experiment with audio tech 🤘
+**Languages & Frameworks:**  
+TypeScript, JavaScript, React, Next.js, Node.js
 
----
+**Tools & Infrastructure:**  
+PostgreSQL, GraphQL, Docker, GitHub Actions, Jest, Playwright
 
-### 🧠 My Craft
+**Approaches I value:**  
+Event-driven architecture, domain modeling, automated testing, continuous deployment
 
-- TypeScript · JavaScript
-- React · Next.js · Node.js · GraphQL
-- Testing: Jest, Testing Library, Playwright
-- SQL/NoSQL, queues, event-based integrations
-- DevOps basics: Docker, GitHub Actions, CI/CD
+## What I'm learning
 
-I care about maintainable codebases that **survive hyper-growth**.
+Distributed systems patterns, real-time applications, home lab experiments with self-hosted services.
 
----
+## Outside code
 
-### 📈 Proven Results
+I play guitar and mess around with audio gear.
 
-- Reduced feature abandonment in onboarding by introducing smart UX improvements  
-  *(multi-file upload + previews → significant drop in drop-offs)*  
-- Shipped features used by tens of thousands of real users
-- Improved reliability and performance in production services
-- Champion of ownership and collaboration across Product + Design
+## Links
 
-If I can’t measure the outcome, I don’t consider it done.
-
----
-
-### 🧪 Current Focus
-
-- Architecting features with a long-term view (scaling without chaos)
-- Practical AI experiences that boost usability, not gimmicks
-- Building a track record for global-tier engineering roles
-
----
-
-### 🧱 Side Projects & Learning
-
-- Internal tools that delete repetitive work
-- Real-time systems · Distributed patterns · Homelab experiments
-
----
-
-### 📫 Find Me
-
-- LinkedIn: [https://linkedin.com/in/rahernande96](#)
-
----
-
-<h3 align="center">⚡ Impact first. Scale second. Excuses never. ⚡</h3>
+[LinkedIn](https://linkedin.com/in/rahernande96)
